@@ -8,20 +8,37 @@ Dataset colums:
 UniqueID: Transaction ID
 
 ParcelID: Parcel ID
+
 LandUse: Type of use purpose
+
 PropertyAddress: Address of the building
+
 SaleDate: Date of transaction
+
 SalePrice: Price of transaction
+
 LegalReference: Legal code
+
 SoldAsVacant: emptiness of the building on the day of transaction
+
 OwnerName
+
 OwnerAddress: Address of owner
+
 Acreage: area, mesured in acre (1 acre = 4 046.85 m2)
+
 TaxDistrict
+
 LandValue
+
 BuildingValue
+
 TotalValue: Sum of land value and building value
+
 YearBuilt: year when the building was built
-Bedrooms: number of bedrooms
+
+Bedrooms: number of bedroom
+
 FullBath: number of full bathroom 
+
 HalfBath: number of half bathroom
