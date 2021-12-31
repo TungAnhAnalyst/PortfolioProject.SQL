@@ -6,6 +6,7 @@ This project used building transactions information recorded in Tennessee state,
 Dataset colums:
 
 UniqueID: Transaction ID
+
 ParcelID: Parcel ID
 LandUse: Type of use purpose
 PropertyAddress: Address of the building
