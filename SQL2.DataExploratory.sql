@@ -1,4 +1,4 @@
---Housing Data Exploratory Analysis.
+---Data Exploratory Analysis---
 
 --Data preview
 Select *
